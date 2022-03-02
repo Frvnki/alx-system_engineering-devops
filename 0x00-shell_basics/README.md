@@ -5,3 +5,4 @@ the 2 file changes current directory to home directory
 The 3 file displays current directory contents in a long format
 The 4 file displays current directory contents, including hidden files (starting with .) in long format
 The 5 file lists all file digits in current directory
+The 6 file creates a directory my_first_directory in /tmp/
