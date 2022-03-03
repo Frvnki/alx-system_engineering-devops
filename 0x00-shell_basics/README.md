@@ -11,3 +11,4 @@ The 8 file deletes betty from /tmp/my_fir...
 9 file deletes /tmp/my_first_directory
 10 changes from current to previous directory
 11 lists all in . .. /boot
+12 shows file type
