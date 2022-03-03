@@ -13,3 +13,4 @@ The 8 file deletes betty from /tmp/my_fir...
 11 lists all in . .. /boot
 12 shows file type
 13 creates a symbolic link
+14 copies html files
