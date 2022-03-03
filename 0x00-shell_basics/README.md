@@ -17,3 +17,4 @@ The 8 file deletes betty from /tmp/my_fir...
 100 moves all files that begin with upper case
 101 deletes all files ending in ~
 102 creates parent dir from dir name
+103 lists with commas
