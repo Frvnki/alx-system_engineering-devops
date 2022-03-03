@@ -14,3 +14,4 @@ The 8 file deletes betty from /tmp/my_fir...
 12 shows file type
 13 creates a symbolic link
 14 copies html files
+100 moves all files that begin with upper case
