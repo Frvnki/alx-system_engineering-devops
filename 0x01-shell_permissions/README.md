@@ -1,4 +1,4 @@
-Script 0 switches user to Betty
+Script 0 switches user to Betty \n
 Script 1 prints effective username
 Script 2 prints all groups of user
 Script 3 changes file ownership
